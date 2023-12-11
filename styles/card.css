@@ -1,0 +1,27 @@
+
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 50px;
+}
+
+.card{
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  margin: 5px auto ;
+  padding: 10px ;
+  border-bottom: 5px solid #d8cefe;
+  background: #ddebf8;
+  color: #2b2839;
+  
+}
+.Profile-picture{
+  width: 200PX;
+  height: 200PX;
+}
+.textt{
+  margin-left: 50px;
+  text-align: center;
+  
+  
+}
